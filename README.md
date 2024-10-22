@@ -11,5 +11,5 @@ Technologies Used
 
 4.BeautifulSoup – Web scraping in projects like the Web Scraper.
 
-5.Pine Script – Used for algorithmic trading in TradingView projects.
+
 
